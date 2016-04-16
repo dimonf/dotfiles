@@ -22,6 +22,7 @@ exit; fi
 
 # Where the magic happens.
 export DOTFILES=~/.dotfiles
+export github_user=dimonf
 
 # Logging stuff.
 function e_header()   { echo -e "\n\033[1m$@\033[0m"; }
